@@ -25,12 +25,12 @@ The challenge was to build out a product preview card component and get it looki
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Desktop Screenshot
 
-<img src="./finished-design/desktop.jpg" max-width="60%">
-<img src="./finished-design/mobile.png" max-width="40%">
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+<img src="./finished-design/desktop.jpg" width="100%">
+  
+### Mobile Screenshot
+<img src="./finished-design/mobile.png" width="40%">
 
 ### Links
 
@@ -44,11 +44,7 @@ The challenge was to build out a product preview card component and get it looki
 - SASS
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -83,13 +79,5 @@ This was a fun project, and having a prebuilt card that I can include in future 
 ## Author
 
 <!-- - Website - [Mich Stacey](https://www.your-site.com) -->
-- Twitter - [@Mich_Codes](https://www.twitter.com/yourusername)
-<!-- - Frontend Mentor - [@yourusername](https://twitter.com/Mich_Codes) -->
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Twitter - [@Mich_Codes](https://twitter.com/Mich_Codes)
+- Frontend Mentor - [@mich-codes-sa](https://www.frontendmentor.io/profile/mich-codes-sa)

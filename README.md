@@ -27,8 +27,8 @@ The challenge was to build out a product preview card component and get it looki
 
 ### Screenshot
 
-![](./finished-design/desktop.jpg)
-![](./finished-design/mobile.png)
+<img src="./finished-design/desktop.jpg" max-width="60%">
+<img src="./finished-design/mobile.png" max-width="40%">
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
